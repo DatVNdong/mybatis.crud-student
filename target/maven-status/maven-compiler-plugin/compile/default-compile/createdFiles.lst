@@ -1,0 +1,7 @@
+mybatis\crud\student\mapper\StudentMapper.class
+mybatis\crud\student\action\SelectByIdTest.class
+mybatis\crud\student\action\DeleteByIdTest.class
+mybatis\crud\student\action\InsertTest.class
+mybatis\crud\student\action\SelectAllTest.class
+mybatis\crud\student\action\UpdateTest.class
+mybatis\crud\student\mapper\entity\Student.class
